@@ -67,5 +67,5 @@ superstore-sql-data-warehouse/
 │   ├── 04_gold_views_and_procedures.sql
 │   ├── 05_analysis_queries.sql
 │   └── 06_indexing_and_optimization.sql
-└── data/            # put the CSV here (not committed)
+└── data/            # dataset
 ```
